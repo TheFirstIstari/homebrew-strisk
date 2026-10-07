@@ -1,8 +1,8 @@
 class Strisk < Formula
   desc "Render a video's per-frame dominant colours as a radial disk PNG"
   homepage "https://github.com/TheFirstIstari/strisk"
-  url "https://github.com/TheFirstIstari/strisk/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f672846b358136419927e99af837d7cb7846cb127e56cbbbeb058fc455f5b852"
+  url "https://github.com/TheFirstIstari/strisk/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "1956f45015c879c4c65d6b7a2edf0f9515b3c396ad24994cd6494433b589ea65"
   license "GPL-3.0-or-later"
 
   depends_on "ffmpeg"
